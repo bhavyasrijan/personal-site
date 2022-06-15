@@ -66,7 +66,7 @@ h1 {
   color:  #66BFBF;
   margin: 50px auto 0 auto;
   font-family: 'Sacramento', cursive;
-  font-size: 5.625rem; /*rem doesnt get affected by parents font size and is dynamic too*?
+  font-size: 5.625rem; /*rem doesnt get affected by parents font size and is dynamic too*/
    /*IMP: % and em are dynamic sizes and inherited meaning that if body font size is 2em or 200% and h1
   font size is 5.62em then h1 will add up both effects and it will be gigantic.Further,dynamic sizes are adjustable to browsers
   font size(small medium large) whereas static(px) remain unchanged in size.*/
